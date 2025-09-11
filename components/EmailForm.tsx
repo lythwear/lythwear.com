@@ -92,15 +92,29 @@ export default function EmailForm({
           trap: "",
         }),
       });
-      const data = await res.json().catch(() => ({} as any));
-      setStatus(res.ok ? "success" : (data as any).error || "error");
+      const isErrorResponse = (v: unknown): v is { error: string } => {
+        return (
+          typeof v === "object" &&
+          v !== null &&
+          "error" in v &&
+          typeof (v as Record<string, unknown>).error === "string"
+        );
+      };
+      const data: unknown = await res.json().catch(() => ({}));
+      setStatus(
+        res.ok
+          ? "success"
+          : isErrorResponse(data)
+          ? (data as { error: string }).error
+          : "error"
+      );
       if (res.ok) {
         setName("");
         setCountryCode("");
         setPhone("");
         setEmail("");
       }
-    } catch (err) {
+    } catch {
       setStatus("error");
     } finally {
       setLoading(false);
@@ -142,7 +156,7 @@ export default function EmailForm({
         placeholder={
           countryCode === "966"
             ? `${labels.phone} ${
-                locale === "ar" ? "(مثال: 500500500)" : "(e.g., 500500500)"
+                locale === "ar" ? "(مثال: 500 500 500)" : "(e.g., 500 500 500)"
               }`
             : labels.phone
         }

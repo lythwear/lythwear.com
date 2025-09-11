@@ -20,7 +20,20 @@ export async function subscribeToBrevo(email: string, attrs: BrevoAttrs = {}) {
   const lang = (attrs.lang === "en" ? "en" : "ar") as "ar" | "en";
   const templateId = Number.parseInt(lang === "ar" ? tmplAR : tmplEN, 10);
 
-  const payload: any = {
+  type DoubleOptinPayload = {
+    email: string;
+    attributes: {
+      FIRSTNAME?: string;
+      SMS?: string;
+      LANGUAGE: string;
+      SOURCE?: string;
+    };
+    includeListIds: number[];
+    templateId: number;
+    redirectionUrl: string;
+  };
+
+  const payload: DoubleOptinPayload = {
     email,
     attributes: {
       ...(attrs.name ? { FIRSTNAME: attrs.name } : {}),

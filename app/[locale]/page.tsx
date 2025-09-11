@@ -72,6 +72,7 @@ export default function HomePage() {
         </div>
 
         <div className="footer">
+          {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
           <a href="/privacy">{tr.privacy}</a> • <a href="/terms">{tr.terms}</a>
         </div>
       </div>
