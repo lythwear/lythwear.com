@@ -1,0 +1,42 @@
+:root {
+  --color-bg: #000000;
+  --color-accent: #20b2aa;
+  --color-text: #ffffff;
+  --focus-ring: #ffbf47;
+}
+html,
+body,
+#__next {
+  height: 100%;
+}
+body {
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell,
+    Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.5;
+}
+main {
+  flex: 1 1 auto;
+  display: block;
+}
+a {
+  color: var(--color-accent);
+}
+input,
+button {
+  font-family: inherit;
+}
+*:focus-visible {
+  outline: 3px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+/* Ensure Arabic aligns correctly (scope to main to avoid forcing RTL globally) */
+main[dir="rtl"] input,
+main[dir="rtl"] textarea,
+main[dir="rtl"] select {
+  text-align: right;
+}

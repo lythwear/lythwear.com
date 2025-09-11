@@ -1,0 +1,3458 @@
+[
+  {
+    "code": "AF",
+    "dialCode": "+93",
+    "name_en": "Afghanistan",
+    "name_ar": "أفغانستان"
+  },
+  {
+    "code": "AX",
+    "dialCode": "+35818",
+    "name_en": "Åland Islands",
+    "name_ar": "جزر أولاند"
+  },
+  {
+    "code": "AL",
+    "dialCode": "+355",
+    "name_en": "Albania",
+    "name_ar": "ألبانيا"
+  },
+  {
+    "code": "DZ",
+    "dialCode": "+213",
+    "name_en": "Algeria",
+    "name_ar": "الجزائر"
+  },
+  {
+    "code": "AS",
+    "dialCode": "+1684",
+    "name_en": "American Samoa",
+    "name_ar": "ساموا الأمريكية"
+  },
+  {
+    "code": "AD",
+    "dialCode": "+376",
+    "name_en": "Andorra",
+    "name_ar": "أندورا"
+  },
+  {
+    "code": "AO",
+    "dialCode": "+244",
+    "name_en": "Angola",
+    "name_ar": "جمهورية أنغولا"
+  },
+  {
+    "code": "AI",
+    "dialCode": "+1264",
+    "name_en": "Anguilla",
+    "name_ar": "أنغويلا"
+  },
+  {
+    "code": "AG",
+    "dialCode": "+1268",
+    "name_en": "Antigua and Barbuda",
+    "name_ar": "أنتيغوا وباربودا"
+  },
+  {
+    "code": "AR",
+    "dialCode": "+54",
+    "name_en": "Argentina",
+    "name_ar": "الأرجنتين"
+  },
+  {
+    "code": "AM",
+    "dialCode": "+374",
+    "name_en": "Armenia",
+    "name_ar": "أرمينيا"
+  },
+  {
+    "code": "AW",
+    "dialCode": "+297",
+    "name_en": "Aruba",
+    "name_ar": "أروبا"
+  },
+  {
+    "code": "AU",
+    "dialCode": "+61",
+    "name_en": "Australia",
+    "name_ar": "أستراليا"
+  },
+  {
+    "code": "AT",
+    "dialCode": "+43",
+    "name_en": "Austria",
+    "name_ar": "النمسا"
+  },
+  {
+    "code": "AZ",
+    "dialCode": "+994",
+    "name_en": "Azerbaijan",
+    "name_ar": "أذربيجان"
+  },
+  {
+    "code": "BS",
+    "dialCode": "+1242",
+    "name_en": "Bahamas",
+    "name_ar": "باهاماس"
+  },
+  {
+    "code": "BH",
+    "dialCode": "+973",
+    "name_en": "Bahrain",
+    "name_ar": "‏البحرين"
+  },
+  {
+    "code": "BD",
+    "dialCode": "+880",
+    "name_en": "Bangladesh",
+    "name_ar": "بنغلاديش"
+  },
+  {
+    "code": "BB",
+    "dialCode": "+1246",
+    "name_en": "Barbados",
+    "name_ar": "باربادوس"
+  },
+  {
+    "code": "BY",
+    "dialCode": "+375",
+    "name_en": "Belarus",
+    "name_ar": "بيلاروسيا"
+  },
+  {
+    "code": "BE",
+    "dialCode": "+32",
+    "name_en": "Belgium",
+    "name_ar": "بلجيكا"
+  },
+  {
+    "code": "BZ",
+    "dialCode": "+501",
+    "name_en": "Belize",
+    "name_ar": "بليز"
+  },
+  {
+    "code": "BJ",
+    "dialCode": "+229",
+    "name_en": "Benin",
+    "name_ar": "بنين"
+  },
+  {
+    "code": "BM",
+    "dialCode": "+1441",
+    "name_en": "Bermuda",
+    "name_ar": "برمودا"
+  },
+  {
+    "code": "BT",
+    "dialCode": "+975",
+    "name_en": "Bhutan",
+    "name_ar": "بوتان"
+  },
+  {
+    "code": "BO",
+    "dialCode": "+591",
+    "name_en": "Bolivia",
+    "name_ar": "بوليفيا"
+  },
+  {
+    "code": "BA",
+    "dialCode": "+387",
+    "name_en": "Bosnia and Herzegovina",
+    "name_ar": "البوسنة والهرسك"
+  },
+  {
+    "code": "BW",
+    "dialCode": "+267",
+    "name_en": "Botswana",
+    "name_ar": "بوتسوانا"
+  },
+  {
+    "code": "BV",
+    "dialCode": "+47",
+    "name_en": "Bouvet Island",
+    "name_ar": "جزر بوفيه"
+  },
+  {
+    "code": "BR",
+    "dialCode": "+55",
+    "name_en": "Brazil",
+    "name_ar": "البرازيل"
+  },
+  {
+    "code": "IO",
+    "dialCode": "+246",
+    "name_en": "British Indian Ocean Territory",
+    "name_ar": "إقليم المحيط الهندي البريطاني"
+  },
+  {
+    "code": "VG",
+    "dialCode": "+1284",
+    "name_en": "British Virgin Islands",
+    "name_ar": "جزر العذراء"
+  },
+  {
+    "code": "BN",
+    "dialCode": "+673",
+    "name_en": "Brunei",
+    "name_ar": "بروناي"
+  },
+  {
+    "code": "BG",
+    "dialCode": "+359",
+    "name_en": "Bulgaria",
+    "name_ar": "بلغاريا"
+  },
+  {
+    "code": "BF",
+    "dialCode": "+226",
+    "name_en": "Burkina Faso",
+    "name_ar": "بوركينا فاسو"
+  },
+  {
+    "code": "BI",
+    "dialCode": "+257",
+    "name_en": "Burundi",
+    "name_ar": "بوروندي"
+  },
+  {
+    "code": "KH",
+    "dialCode": "+855",
+    "name_en": "Cambodia",
+    "name_ar": "كمبوديا"
+  },
+  {
+    "code": "CM",
+    "dialCode": "+237",
+    "name_en": "Cameroon",
+    "name_ar": "الكاميرون"
+  },
+  {
+    "code": "CA",
+    "dialCode": "+1",
+    "name_en": "Canada",
+    "name_ar": "كندا"
+  },
+  {
+    "code": "CV",
+    "dialCode": "+238",
+    "name_en": "Cape Verde",
+    "name_ar": "كابو فيردي"
+  },
+  {
+    "code": "BQ",
+    "dialCode": "+599",
+    "name_en": "Caribbean Netherlands",
+    "name_ar": "الجزر الكاريبية الهولندية"
+  },
+  {
+    "code": "KY",
+    "dialCode": "+1345",
+    "name_en": "Cayman Islands",
+    "name_ar": "جزر كايمان"
+  },
+  {
+    "code": "CF",
+    "dialCode": "+236",
+    "name_en": "Central African Republic",
+    "name_ar": "جمهورية أفريقيا الوسطى"
+  },
+  {
+    "code": "TD",
+    "dialCode": "+235",
+    "name_en": "Chad",
+    "name_ar": "تشاد"
+  },
+  {
+    "code": "CL",
+    "dialCode": "+56",
+    "name_en": "Chile",
+    "name_ar": "تشيلي"
+  },
+  {
+    "code": "CN",
+    "dialCode": "+86",
+    "name_en": "China",
+    "name_ar": "الصين"
+  },
+  {
+    "code": "CX",
+    "dialCode": "+61",
+    "name_en": "Christmas Island",
+    "name_ar": "جزيرة كريسماس"
+  },
+  {
+    "code": "CC",
+    "dialCode": "+61",
+    "name_en": "Cocos (Keeling) Islands",
+    "name_ar": "جزر كوكوس"
+  },
+  {
+    "code": "CO",
+    "dialCode": "+57",
+    "name_en": "Colombia",
+    "name_ar": "كولومبيا"
+  },
+  {
+    "code": "KM",
+    "dialCode": "+269",
+    "name_en": "Comoros",
+    "name_ar": "جزر القمر"
+  },
+  {
+    "code": "CK",
+    "dialCode": "+682",
+    "name_en": "Cook Islands",
+    "name_ar": "جزر كوك"
+  },
+  {
+    "code": "CR",
+    "dialCode": "+506",
+    "name_en": "Costa Rica",
+    "name_ar": "كوستاريكا"
+  },
+  {
+    "code": "HR",
+    "dialCode": "+385",
+    "name_en": "Croatia",
+    "name_ar": "كرواتيا"
+  },
+  {
+    "code": "CU",
+    "dialCode": "+53",
+    "name_en": "Cuba",
+    "name_ar": "كوبا"
+  },
+  {
+    "code": "CW",
+    "dialCode": "+599",
+    "name_en": "Curaçao",
+    "name_ar": "كوراساو"
+  },
+  {
+    "code": "CY",
+    "dialCode": "+357",
+    "name_en": "Cyprus",
+    "name_ar": "قبرص"
+  },
+  {
+    "code": "CZ",
+    "dialCode": "+420",
+    "name_en": "Czechia",
+    "name_ar": "التشيك"
+  },
+  {
+    "code": "DK",
+    "dialCode": "+45",
+    "name_en": "Denmark",
+    "name_ar": "الدنمارك"
+  },
+  {
+    "code": "DJ",
+    "dialCode": "+253",
+    "name_en": "Djibouti",
+    "name_ar": "جيبوتي"
+  },
+  {
+    "code": "DM",
+    "dialCode": "+1767",
+    "name_en": "Dominica",
+    "name_ar": "دومينيكا"
+  },
+  {
+    "code": "DO",
+    "dialCode": "+1809",
+    "name_en": "Dominican Republic",
+    "name_ar": "جمهورية الدومينيكان"
+  },
+  {
+    "code": "DO",
+    "dialCode": "+1829",
+    "name_en": "Dominican Republic",
+    "name_ar": "جمهورية الدومينيكان"
+  },
+  {
+    "code": "DO",
+    "dialCode": "+1849",
+    "name_en": "Dominican Republic",
+    "name_ar": "جمهورية الدومينيكان"
+  },
+  {
+    "code": "CD",
+    "dialCode": "+243",
+    "name_en": "DR Congo",
+    "name_ar": "الكونغو"
+  },
+  {
+    "code": "EC",
+    "dialCode": "+593",
+    "name_en": "Ecuador",
+    "name_ar": "الإكوادور"
+  },
+  {
+    "code": "EG",
+    "dialCode": "+20",
+    "name_en": "Egypt",
+    "name_ar": "مصر"
+  },
+  {
+    "code": "SV",
+    "dialCode": "+503",
+    "name_en": "El Salvador",
+    "name_ar": "السلفادور"
+  },
+  {
+    "code": "GQ",
+    "dialCode": "+240",
+    "name_en": "Equatorial Guinea",
+    "name_ar": "غينيا الاستوائية"
+  },
+  {
+    "code": "ER",
+    "dialCode": "+291",
+    "name_en": "Eritrea",
+    "name_ar": "إريتريا"
+  },
+  {
+    "code": "EE",
+    "dialCode": "+372",
+    "name_en": "Estonia",
+    "name_ar": "إستونيا"
+  },
+  {
+    "code": "SZ",
+    "dialCode": "+268",
+    "name_en": "Eswatini",
+    "name_ar": "إسواتيني"
+  },
+  {
+    "code": "ET",
+    "dialCode": "+251",
+    "name_en": "Ethiopia",
+    "name_ar": "إثيوبيا"
+  },
+  {
+    "code": "FK",
+    "dialCode": "+500",
+    "name_en": "Falkland Islands",
+    "name_ar": "جزر فوكلاند"
+  },
+  {
+    "code": "FO",
+    "dialCode": "+298",
+    "name_en": "Faroe Islands",
+    "name_ar": "جزر فارو"
+  },
+  {
+    "code": "FJ",
+    "dialCode": "+679",
+    "name_en": "Fiji",
+    "name_ar": "فيجي"
+  },
+  {
+    "code": "FI",
+    "dialCode": "+358",
+    "name_en": "Finland",
+    "name_ar": "فنلندا"
+  },
+  {
+    "code": "FR",
+    "dialCode": "+33",
+    "name_en": "France",
+    "name_ar": "فرنسا"
+  },
+  {
+    "code": "GF",
+    "dialCode": "+594",
+    "name_en": "French Guiana",
+    "name_ar": "غويانا"
+  },
+  {
+    "code": "PF",
+    "dialCode": "+689",
+    "name_en": "French Polynesia",
+    "name_ar": "بولينزيا الفرنسية"
+  },
+  {
+    "code": "TF",
+    "dialCode": "+262",
+    "name_en": "French Southern and Antarctic Lands",
+    "name_ar": "أراض فرنسية جنوبية وأنتارتيكية"
+  },
+  {
+    "code": "GA",
+    "dialCode": "+241",
+    "name_en": "Gabon",
+    "name_ar": "الغابون"
+  },
+  {
+    "code": "GM",
+    "dialCode": "+220",
+    "name_en": "Gambia",
+    "name_ar": "غامبيا"
+  },
+  {
+    "code": "GE",
+    "dialCode": "+995",
+    "name_en": "Georgia",
+    "name_ar": "جورجيا"
+  },
+  {
+    "code": "DE",
+    "dialCode": "+49",
+    "name_en": "Germany",
+    "name_ar": "ألمانيا"
+  },
+  {
+    "code": "GH",
+    "dialCode": "+233",
+    "name_en": "Ghana",
+    "name_ar": "غانا"
+  },
+  {
+    "code": "GI",
+    "dialCode": "+350",
+    "name_en": "Gibraltar",
+    "name_ar": "جبل طارق"
+  },
+  {
+    "code": "GR",
+    "dialCode": "+30",
+    "name_en": "Greece",
+    "name_ar": "اليونان"
+  },
+  {
+    "code": "GL",
+    "dialCode": "+299",
+    "name_en": "Greenland",
+    "name_ar": "جرينلاند"
+  },
+  {
+    "code": "GD",
+    "dialCode": "+1473",
+    "name_en": "Grenada",
+    "name_ar": "غرينادا"
+  },
+  {
+    "code": "GP",
+    "dialCode": "+590",
+    "name_en": "Guadeloupe",
+    "name_ar": "غوادلوب"
+  },
+  {
+    "code": "GU",
+    "dialCode": "+1671",
+    "name_en": "Guam",
+    "name_ar": "غوام"
+  },
+  {
+    "code": "GT",
+    "dialCode": "+502",
+    "name_en": "Guatemala",
+    "name_ar": "غواتيمالا"
+  },
+  {
+    "code": "GG",
+    "dialCode": "+44",
+    "name_en": "Guernsey",
+    "name_ar": "غيرنزي"
+  },
+  {
+    "code": "GN",
+    "dialCode": "+224",
+    "name_en": "Guinea",
+    "name_ar": "غينيا"
+  },
+  {
+    "code": "GW",
+    "dialCode": "+245",
+    "name_en": "Guinea-Bissau",
+    "name_ar": "غينيا بيساو"
+  },
+  {
+    "code": "GY",
+    "dialCode": "+592",
+    "name_en": "Guyana",
+    "name_ar": "غيانا"
+  },
+  {
+    "code": "HT",
+    "dialCode": "+509",
+    "name_en": "Haiti",
+    "name_ar": "هايتي"
+  },
+  {
+    "code": "HN",
+    "dialCode": "+504",
+    "name_en": "Honduras",
+    "name_ar": "هندوراس"
+  },
+  {
+    "code": "HK",
+    "dialCode": "+852",
+    "name_en": "Hong Kong",
+    "name_ar": "هونغ كونغ"
+  },
+  {
+    "code": "HU",
+    "dialCode": "+36",
+    "name_en": "Hungary",
+    "name_ar": "المجر"
+  },
+  {
+    "code": "IS",
+    "dialCode": "+354",
+    "name_en": "Iceland",
+    "name_ar": "آيسلندا"
+  },
+  {
+    "code": "IN",
+    "dialCode": "+91",
+    "name_en": "India",
+    "name_ar": "الهند"
+  },
+  {
+    "code": "ID",
+    "dialCode": "+62",
+    "name_en": "Indonesia",
+    "name_ar": "إندونيسيا"
+  },
+  {
+    "code": "IR",
+    "dialCode": "+98",
+    "name_en": "Iran",
+    "name_ar": "إيران"
+  },
+  {
+    "code": "IQ",
+    "dialCode": "+964",
+    "name_en": "Iraq",
+    "name_ar": "العراق"
+  },
+  {
+    "code": "IE",
+    "dialCode": "+353",
+    "name_en": "Ireland",
+    "name_ar": "أيرلندا"
+  },
+  {
+    "code": "IM",
+    "dialCode": "+44",
+    "name_en": "Isle of Man",
+    "name_ar": "جزيرة مان"
+  },
+  {
+    "code": "IL",
+    "dialCode": "+972",
+    "name_en": "Israel",
+    "name_ar": "إسرائيل"
+  },
+  {
+    "code": "IT",
+    "dialCode": "+39",
+    "name_en": "Italy",
+    "name_ar": "إيطاليا"
+  },
+  {
+    "code": "CI",
+    "dialCode": "+225",
+    "name_en": "Ivory Coast",
+    "name_ar": "ساحل العاج"
+  },
+  {
+    "code": "JM",
+    "dialCode": "+1876",
+    "name_en": "Jamaica",
+    "name_ar": "جامايكا"
+  },
+  {
+    "code": "JM",
+    "dialCode": "+1658",
+    "name_en": "Jamaica",
+    "name_ar": "جامايكا"
+  },
+  {
+    "code": "JP",
+    "dialCode": "+81",
+    "name_en": "Japan",
+    "name_ar": "اليابان"
+  },
+  {
+    "code": "JE",
+    "dialCode": "+44",
+    "name_en": "Jersey",
+    "name_ar": "جيرزي"
+  },
+  {
+    "code": "JO",
+    "dialCode": "+962",
+    "name_en": "Jordan",
+    "name_ar": "الأردن"
+  },
+  {
+    "code": "KZ",
+    "dialCode": "+76",
+    "name_en": "Kazakhstan",
+    "name_ar": "كازاخستان"
+  },
+  {
+    "code": "KZ",
+    "dialCode": "+77",
+    "name_en": "Kazakhstan",
+    "name_ar": "كازاخستان"
+  },
+  {
+    "code": "KE",
+    "dialCode": "+254",
+    "name_en": "Kenya",
+    "name_ar": "كينيا"
+  },
+  {
+    "code": "KI",
+    "dialCode": "+686",
+    "name_en": "Kiribati",
+    "name_ar": "كيريباتي"
+  },
+  {
+    "code": "XK",
+    "dialCode": "+383",
+    "name_en": "Kosovo",
+    "name_ar": "كوسوفو"
+  },
+  {
+    "code": "KW",
+    "dialCode": "+965",
+    "name_en": "Kuwait",
+    "name_ar": "الكويت"
+  },
+  {
+    "code": "KG",
+    "dialCode": "+996",
+    "name_en": "Kyrgyzstan",
+    "name_ar": "قيرغيزستان"
+  },
+  {
+    "code": "LA",
+    "dialCode": "+856",
+    "name_en": "Laos",
+    "name_ar": "لاوس"
+  },
+  {
+    "code": "LV",
+    "dialCode": "+371",
+    "name_en": "Latvia",
+    "name_ar": "لاتفيا"
+  },
+  {
+    "code": "LB",
+    "dialCode": "+961",
+    "name_en": "Lebanon",
+    "name_ar": "لبنان"
+  },
+  {
+    "code": "LS",
+    "dialCode": "+266",
+    "name_en": "Lesotho",
+    "name_ar": "ليسوتو"
+  },
+  {
+    "code": "LR",
+    "dialCode": "+231",
+    "name_en": "Liberia",
+    "name_ar": "ليبيريا"
+  },
+  {
+    "code": "LY",
+    "dialCode": "+218",
+    "name_en": "Libya",
+    "name_ar": "‏ليبيا"
+  },
+  {
+    "code": "LI",
+    "dialCode": "+423",
+    "name_en": "Liechtenstein",
+    "name_ar": "ليختنشتاين"
+  },
+  {
+    "code": "LT",
+    "dialCode": "+370",
+    "name_en": "Lithuania",
+    "name_ar": "ليتوانيا"
+  },
+  {
+    "code": "LU",
+    "dialCode": "+352",
+    "name_en": "Luxembourg",
+    "name_ar": "لوكسمبورغ"
+  },
+  {
+    "code": "MO",
+    "dialCode": "+853",
+    "name_en": "Macau",
+    "name_ar": "ماكاو"
+  },
+  {
+    "code": "MG",
+    "dialCode": "+261",
+    "name_en": "Madagascar",
+    "name_ar": "مدغشقر"
+  },
+  {
+    "code": "MW",
+    "dialCode": "+265",
+    "name_en": "Malawi",
+    "name_ar": "مالاوي"
+  },
+  {
+    "code": "MY",
+    "dialCode": "+60",
+    "name_en": "Malaysia",
+    "name_ar": "ماليزيا"
+  },
+  {
+    "code": "MV",
+    "dialCode": "+960",
+    "name_en": "Maldives",
+    "name_ar": "المالديف"
+  },
+  {
+    "code": "ML",
+    "dialCode": "+223",
+    "name_en": "Mali",
+    "name_ar": "مالي"
+  },
+  {
+    "code": "MT",
+    "dialCode": "+356",
+    "name_en": "Malta",
+    "name_ar": "مالطا"
+  },
+  {
+    "code": "MH",
+    "dialCode": "+692",
+    "name_en": "Marshall Islands",
+    "name_ar": "جزر مارشال"
+  },
+  {
+    "code": "MQ",
+    "dialCode": "+596",
+    "name_en": "Martinique",
+    "name_ar": "مارتينيك"
+  },
+  {
+    "code": "MR",
+    "dialCode": "+222",
+    "name_en": "Mauritania",
+    "name_ar": "موريتانيا"
+  },
+  {
+    "code": "MU",
+    "dialCode": "+230",
+    "name_en": "Mauritius",
+    "name_ar": "موريشيوس"
+  },
+  {
+    "code": "YT",
+    "dialCode": "+262",
+    "name_en": "Mayotte",
+    "name_ar": "مايوت"
+  },
+  {
+    "code": "MX",
+    "dialCode": "+52",
+    "name_en": "Mexico",
+    "name_ar": "المسكيك"
+  },
+  {
+    "code": "FM",
+    "dialCode": "+691",
+    "name_en": "Micronesia",
+    "name_ar": "ميكرونيسيا"
+  },
+  {
+    "code": "MD",
+    "dialCode": "+373",
+    "name_en": "Moldova",
+    "name_ar": "مولدوڤا"
+  },
+  {
+    "code": "MC",
+    "dialCode": "+377",
+    "name_en": "Monaco",
+    "name_ar": "موناكو"
+  },
+  {
+    "code": "MN",
+    "dialCode": "+976",
+    "name_en": "Mongolia",
+    "name_ar": "منغوليا"
+  },
+  {
+    "code": "ME",
+    "dialCode": "+382",
+    "name_en": "Montenegro",
+    "name_ar": "الجبل الاسود"
+  },
+  {
+    "code": "MS",
+    "dialCode": "+1664",
+    "name_en": "Montserrat",
+    "name_ar": "مونتسرات"
+  },
+  {
+    "code": "MA",
+    "dialCode": "+212",
+    "name_en": "Morocco",
+    "name_ar": "المغرب"
+  },
+  {
+    "code": "MZ",
+    "dialCode": "+258",
+    "name_en": "Mozambique",
+    "name_ar": "موزمبيق"
+  },
+  {
+    "code": "MM",
+    "dialCode": "+95",
+    "name_en": "Myanmar",
+    "name_ar": "ميانمار"
+  },
+  {
+    "code": "NA",
+    "dialCode": "+264",
+    "name_en": "Namibia",
+    "name_ar": "ناميبيا"
+  },
+  {
+    "code": "NR",
+    "dialCode": "+674",
+    "name_en": "Nauru",
+    "name_ar": "ناورو"
+  },
+  {
+    "code": "NP",
+    "dialCode": "+977",
+    "name_en": "Nepal",
+    "name_ar": "نيبال"
+  },
+  {
+    "code": "NL",
+    "dialCode": "+31",
+    "name_en": "Netherlands",
+    "name_ar": "هولندا"
+  },
+  {
+    "code": "NC",
+    "dialCode": "+687",
+    "name_en": "New Caledonia",
+    "name_ar": "كاليدونيا الجديدة"
+  },
+  {
+    "code": "NZ",
+    "dialCode": "+64",
+    "name_en": "New Zealand",
+    "name_ar": "نيوزيلندا"
+  },
+  {
+    "code": "NI",
+    "dialCode": "+505",
+    "name_en": "Nicaragua",
+    "name_ar": "نيكاراغوا"
+  },
+  {
+    "code": "NE",
+    "dialCode": "+227",
+    "name_en": "Niger",
+    "name_ar": "النيجر"
+  },
+  {
+    "code": "NG",
+    "dialCode": "+234",
+    "name_en": "Nigeria",
+    "name_ar": "نيجيريا"
+  },
+  {
+    "code": "NU",
+    "dialCode": "+683",
+    "name_en": "Niue",
+    "name_ar": "نييوي"
+  },
+  {
+    "code": "NF",
+    "dialCode": "+672",
+    "name_en": "Norfolk Island",
+    "name_ar": "جزيرة نورفولك"
+  },
+  {
+    "code": "KP",
+    "dialCode": "+850",
+    "name_en": "North Korea",
+    "name_ar": "كوريا الشمالية"
+  },
+  {
+    "code": "MK",
+    "dialCode": "+389",
+    "name_en": "North Macedonia",
+    "name_ar": "شمال مقدونيا"
+  },
+  {
+    "code": "MP",
+    "dialCode": "+1670",
+    "name_en": "Northern Mariana Islands",
+    "name_ar": "جزر ماريانا الشمالية"
+  },
+  {
+    "code": "NO",
+    "dialCode": "+47",
+    "name_en": "Norway",
+    "name_ar": "النرويج"
+  },
+  {
+    "code": "OM",
+    "dialCode": "+968",
+    "name_en": "Oman",
+    "name_ar": "عمان"
+  },
+  {
+    "code": "PK",
+    "dialCode": "+92",
+    "name_en": "Pakistan",
+    "name_ar": "باكستان"
+  },
+  {
+    "code": "PW",
+    "dialCode": "+680",
+    "name_en": "Palau",
+    "name_ar": "بالاو"
+  },
+  {
+    "code": "PS",
+    "dialCode": "+970",
+    "name_en": "Palestine",
+    "name_ar": "فلسطين"
+  },
+  {
+    "code": "PA",
+    "dialCode": "+507",
+    "name_en": "Panama",
+    "name_ar": "بنما"
+  },
+  {
+    "code": "PG",
+    "dialCode": "+675",
+    "name_en": "Papua New Guinea",
+    "name_ar": "بابوا غينيا الجديدة"
+  },
+  {
+    "code": "PY",
+    "dialCode": "+595",
+    "name_en": "Paraguay",
+    "name_ar": "باراغواي"
+  },
+  {
+    "code": "PE",
+    "dialCode": "+51",
+    "name_en": "Peru",
+    "name_ar": "بيرو"
+  },
+  {
+    "code": "PH",
+    "dialCode": "+63",
+    "name_en": "Philippines",
+    "name_ar": "الفلبين"
+  },
+  {
+    "code": "PN",
+    "dialCode": "+64",
+    "name_en": "Pitcairn Islands",
+    "name_ar": "جزر بيتكيرن"
+  },
+  {
+    "code": "PL",
+    "dialCode": "+48",
+    "name_en": "Poland",
+    "name_ar": "بولندا"
+  },
+  {
+    "code": "PT",
+    "dialCode": "+351",
+    "name_en": "Portugal",
+    "name_ar": "البرتغال"
+  },
+  {
+    "code": "PR",
+    "dialCode": "+1787",
+    "name_en": "Puerto Rico",
+    "name_ar": "بويرتوريكو"
+  },
+  {
+    "code": "PR",
+    "dialCode": "+1939",
+    "name_en": "Puerto Rico",
+    "name_ar": "بويرتوريكو"
+  },
+  {
+    "code": "QA",
+    "dialCode": "+974",
+    "name_en": "Qatar",
+    "name_ar": "قطر"
+  },
+  {
+    "code": "CG",
+    "dialCode": "+242",
+    "name_en": "Republic of the Congo",
+    "name_ar": "جمهورية الكونفو"
+  },
+  {
+    "code": "RE",
+    "dialCode": "+262",
+    "name_en": "Réunion",
+    "name_ar": "لا ريونيون"
+  },
+  {
+    "code": "RO",
+    "dialCode": "+40",
+    "name_en": "Romania",
+    "name_ar": "رومانيا"
+  },
+  {
+    "code": "RU",
+    "dialCode": "+73",
+    "name_en": "Russia",
+    "name_ar": "روسيا"
+  },
+  {
+    "code": "RU",
+    "dialCode": "+74",
+    "name_en": "Russia",
+    "name_ar": "روسيا"
+  },
+  {
+    "code": "RU",
+    "dialCode": "+75",
+    "name_en": "Russia",
+    "name_ar": "روسيا"
+  },
+  {
+    "code": "RU",
+    "dialCode": "+78",
+    "name_en": "Russia",
+    "name_ar": "روسيا"
+  },
+  {
+    "code": "RU",
+    "dialCode": "+79",
+    "name_en": "Russia",
+    "name_ar": "روسيا"
+  },
+  {
+    "code": "RW",
+    "dialCode": "+250",
+    "name_en": "Rwanda",
+    "name_ar": "رواندا"
+  },
+  {
+    "code": "BL",
+    "dialCode": "+590",
+    "name_en": "Saint Barthélemy",
+    "name_ar": "سان بارتليمي"
+  },
+  {
+    "code": "SH",
+    "dialCode": "+290",
+    "name_en": "Saint Helena, Ascension and Tristan da Cunha",
+    "name_ar": "سانت هيلينا وأسينشين وتريستان دا كونا"
+  },
+  {
+    "code": "SH",
+    "dialCode": "+247",
+    "name_en": "Saint Helena, Ascension and Tristan da Cunha",
+    "name_ar": "سانت هيلينا وأسينشين وتريستان دا كونا"
+  },
+  {
+    "code": "KN",
+    "dialCode": "+1869",
+    "name_en": "Saint Kitts and Nevis",
+    "name_ar": "سانت كيتس ونيفيس"
+  },
+  {
+    "code": "LC",
+    "dialCode": "+1758",
+    "name_en": "Saint Lucia",
+    "name_ar": "سانت لوسيا"
+  },
+  {
+    "code": "MF",
+    "dialCode": "+590",
+    "name_en": "Saint Martin",
+    "name_ar": "سانت مارتن"
+  },
+  {
+    "code": "PM",
+    "dialCode": "+508",
+    "name_en": "Saint Pierre and Miquelon",
+    "name_ar": "سان بيير وميكلون"
+  },
+  {
+    "code": "VC",
+    "dialCode": "+1784",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_ar": "سانت فينسنت والغرينادين"
+  },
+  {
+    "code": "WS",
+    "dialCode": "+685",
+    "name_en": "Samoa",
+    "name_ar": "ساموا"
+  },
+  {
+    "code": "SM",
+    "dialCode": "+378",
+    "name_en": "San Marino",
+    "name_ar": "سان مارينو"
+  },
+  {
+    "code": "ST",
+    "dialCode": "+239",
+    "name_en": "São Tomé and Príncipe",
+    "name_ar": "ساو تومي وبرينسيب"
+  },
+  {
+    "code": "SA",
+    "dialCode": "+966",
+    "name_en": "Saudi Arabia",
+    "name_ar": "السعودية"
+  },
+  {
+    "code": "SN",
+    "dialCode": "+221",
+    "name_en": "Senegal",
+    "name_ar": "السنغال"
+  },
+  {
+    "code": "RS",
+    "dialCode": "+381",
+    "name_en": "Serbia",
+    "name_ar": "صيربيا"
+  },
+  {
+    "code": "SC",
+    "dialCode": "+248",
+    "name_en": "Seychelles",
+    "name_ar": "سيشل"
+  },
+  {
+    "code": "SL",
+    "dialCode": "+232",
+    "name_en": "Sierra Leone",
+    "name_ar": "سيراليون"
+  },
+  {
+    "code": "SG",
+    "dialCode": "+65",
+    "name_en": "Singapore",
+    "name_ar": "سنغافورة"
+  },
+  {
+    "code": "SX",
+    "dialCode": "+1721",
+    "name_en": "Sint Maarten",
+    "name_ar": "سينت مارتن"
+  },
+  {
+    "code": "SK",
+    "dialCode": "+421",
+    "name_en": "Slovakia",
+    "name_ar": "سلوفاكيا"
+  },
+  {
+    "code": "SI",
+    "dialCode": "+386",
+    "name_en": "Slovenia",
+    "name_ar": "سلوفينيا"
+  },
+  {
+    "code": "SB",
+    "dialCode": "+677",
+    "name_en": "Solomon Islands",
+    "name_ar": "جزر سليمان"
+  },
+  {
+    "code": "SO",
+    "dialCode": "+252",
+    "name_en": "Somalia",
+    "name_ar": "الصومال"
+  },
+  {
+    "code": "ZA",
+    "dialCode": "+27",
+    "name_en": "South Africa",
+    "name_ar": "جنوب أفريقيا"
+  },
+  {
+    "code": "GS",
+    "dialCode": "+500",
+    "name_en": "South Georgia",
+    "name_ar": "جورجيا الجنوبية"
+  },
+  {
+    "code": "KR",
+    "dialCode": "+82",
+    "name_en": "South Korea",
+    "name_ar": "كوريا الجنوبية"
+  },
+  {
+    "code": "SS",
+    "dialCode": "+211",
+    "name_en": "South Sudan",
+    "name_ar": "جنوب السودان"
+  },
+  {
+    "code": "ES",
+    "dialCode": "+34",
+    "name_en": "Spain",
+    "name_ar": "إسبانيا"
+  },
+  {
+    "code": "LK",
+    "dialCode": "+94",
+    "name_en": "Sri Lanka",
+    "name_ar": "سريلانكا"
+  },
+  {
+    "code": "SD",
+    "dialCode": "+249",
+    "name_en": "Sudan",
+    "name_ar": "السودان"
+  },
+  {
+    "code": "SR",
+    "dialCode": "+597",
+    "name_en": "Suriname",
+    "name_ar": "سورينام"
+  },
+  {
+    "code": "SJ",
+    "dialCode": "+4779",
+    "name_en": "Svalbard and Jan Mayen",
+    "name_ar": "سفالبارد ويان ماين"
+  },
+  {
+    "code": "SE",
+    "dialCode": "+46",
+    "name_en": "Sweden",
+    "name_ar": "السويد"
+  },
+  {
+    "code": "CH",
+    "dialCode": "+41",
+    "name_en": "Switzerland",
+    "name_ar": "سويسرا"
+  },
+  {
+    "code": "SY",
+    "dialCode": "+963",
+    "name_en": "Syria",
+    "name_ar": "سوريا"
+  },
+  {
+    "code": "TW",
+    "dialCode": "+886",
+    "name_en": "Taiwan",
+    "name_ar": "تايوان"
+  },
+  {
+    "code": "TJ",
+    "dialCode": "+992",
+    "name_en": "Tajikistan",
+    "name_ar": "طاجيكستان"
+  },
+  {
+    "code": "TZ",
+    "dialCode": "+255",
+    "name_en": "Tanzania",
+    "name_ar": "تنزانيا"
+  },
+  {
+    "code": "TH",
+    "dialCode": "+66",
+    "name_en": "Thailand",
+    "name_ar": "تايلند"
+  },
+  {
+    "code": "TL",
+    "dialCode": "+670",
+    "name_en": "Timor-Leste",
+    "name_ar": "تيمور الشرقية"
+  },
+  {
+    "code": "TG",
+    "dialCode": "+228",
+    "name_en": "Togo",
+    "name_ar": "توغو"
+  },
+  {
+    "code": "TK",
+    "dialCode": "+690",
+    "name_en": "Tokelau",
+    "name_ar": "توكيلاو"
+  },
+  {
+    "code": "TO",
+    "dialCode": "+676",
+    "name_en": "Tonga",
+    "name_ar": "تونغا"
+  },
+  {
+    "code": "TT",
+    "dialCode": "+1868",
+    "name_en": "Trinidad and Tobago",
+    "name_ar": "ترينيداد وتوباغو"
+  },
+  {
+    "code": "TN",
+    "dialCode": "+216",
+    "name_en": "Tunisia",
+    "name_ar": "تونس"
+  },
+  {
+    "code": "TR",
+    "dialCode": "+90",
+    "name_en": "Turkey",
+    "name_ar": "تركيا"
+  },
+  {
+    "code": "TM",
+    "dialCode": "+993",
+    "name_en": "Turkmenistan",
+    "name_ar": "تركمانستان"
+  },
+  {
+    "code": "TC",
+    "dialCode": "+1649",
+    "name_en": "Turks and Caicos Islands",
+    "name_ar": "جزر توركس وكايكوس"
+  },
+  {
+    "code": "TV",
+    "dialCode": "+688",
+    "name_en": "Tuvalu",
+    "name_ar": "توفالو"
+  },
+  {
+    "code": "UG",
+    "dialCode": "+256",
+    "name_en": "Uganda",
+    "name_ar": "أوغندا"
+  },
+  {
+    "code": "UA",
+    "dialCode": "+380",
+    "name_en": "Ukraine",
+    "name_ar": "أوكرانيا"
+  },
+  {
+    "code": "AE",
+    "dialCode": "+971",
+    "name_en": "United Arab Emirates",
+    "name_ar": "دولة الإمارات العربية المتحدة"
+  },
+  {
+    "code": "GB",
+    "dialCode": "+44",
+    "name_en": "United Kingdom",
+    "name_ar": "المملكة المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1201",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1202",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1203",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1205",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1206",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1207",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1208",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1209",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1210",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1212",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1213",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1214",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1215",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1216",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1217",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1218",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1219",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1220",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1224",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1225",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1227",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1228",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1229",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1231",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1234",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1239",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1240",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1248",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1251",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1252",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1253",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1254",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1256",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1260",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1262",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1267",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1269",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1270",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1272",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1274",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1276",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1281",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1283",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1301",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1302",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1303",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1304",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1305",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1307",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1308",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1309",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1310",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1312",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1313",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1314",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1315",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1316",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1317",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1318",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1319",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1320",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1321",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1323",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1325",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1327",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1330",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1331",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1334",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1336",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1337",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1339",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1346",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1347",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1351",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1352",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1360",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1361",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1364",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1380",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1385",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1386",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1401",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1402",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1404",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1405",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1406",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1407",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1408",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1409",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1410",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1412",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1413",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1414",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1415",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1417",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1419",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1423",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1424",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1425",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1430",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1432",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1434",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1435",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1440",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1442",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1443",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1447",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1458",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1463",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1464",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1469",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1470",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1475",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1478",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1479",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1480",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1484",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1501",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1502",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1503",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1504",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1505",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1507",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1508",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1509",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1510",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1512",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1513",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1515",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1516",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1517",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1518",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1520",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1530",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1531",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1534",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1539",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1540",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1541",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1551",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1559",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1561",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1562",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1563",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1564",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1567",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1570",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1571",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1573",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1574",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1575",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1580",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1585",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1586",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1601",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1602",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1603",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1605",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1606",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1607",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1608",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1609",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1610",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1612",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1614",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1615",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1616",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1617",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1618",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1619",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1620",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1623",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1626",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1628",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1629",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1630",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1631",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1636",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1641",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1646",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1650",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1651",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1657",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1660",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1661",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1662",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1667",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1669",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1678",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1681",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1682",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1701",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1702",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1703",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1704",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1706",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1707",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1708",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1712",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1713",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1714",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1715",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1716",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1717",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1718",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1719",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1720",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1724",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1725",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1727",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1730",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1731",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1732",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1734",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1737",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1740",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1743",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1747",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1754",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1757",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1760",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1762",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1763",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1765",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1769",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1770",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1772",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1773",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1774",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1775",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1779",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1781",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1785",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1786",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1801",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1802",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1803",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1804",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1805",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1806",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1808",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1810",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1812",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1813",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1814",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1815",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1816",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1817",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1818",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1828",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1830",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1831",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1832",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1843",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1845",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1847",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1848",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1850",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1854",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1856",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1857",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1858",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1859",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1860",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1862",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1863",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1864",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1865",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1870",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1872",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1878",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1901",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1903",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1904",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1906",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1907",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1908",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1909",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1910",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1912",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1913",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1914",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1915",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1916",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1917",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1918",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1919",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1920",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1925",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1928",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1929",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1930",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1931",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1934",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1936",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1937",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1938",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1940",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1941",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1947",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1949",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1951",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1952",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1954",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1956",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1959",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1970",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1971",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1972",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1973",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1975",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1978",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1979",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1980",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1984",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1985",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "US",
+    "dialCode": "+1989",
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة"
+  },
+  {
+    "code": "UM",
+    "dialCode": "+268",
+    "name_en": "United States Minor Outlying Islands",
+    "name_ar": "جزر الولايات المتحدة الصغيرة النائية"
+  },
+  {
+    "code": "VI",
+    "dialCode": "+1340",
+    "name_en": "United States Virgin Islands",
+    "name_ar": "جزر العذراء الامريكية"
+  },
+  {
+    "code": "UY",
+    "dialCode": "+598",
+    "name_en": "Uruguay",
+    "name_ar": "الأوروغواي"
+  },
+  {
+    "code": "UZ",
+    "dialCode": "+998",
+    "name_en": "Uzbekistan",
+    "name_ar": "أوزباكستان"
+  },
+  {
+    "code": "VU",
+    "dialCode": "+678",
+    "name_en": "Vanuatu",
+    "name_ar": "فانواتو"
+  },
+  {
+    "code": "VA",
+    "dialCode": "+3906698",
+    "name_en": "Vatican City",
+    "name_ar": "مدينة الفاتيكان"
+  },
+  {
+    "code": "VA",
+    "dialCode": "+379",
+    "name_en": "Vatican City",
+    "name_ar": "مدينة الفاتيكان"
+  },
+  {
+    "code": "VE",
+    "dialCode": "+58",
+    "name_en": "Venezuela",
+    "name_ar": "فنزويلا"
+  },
+  {
+    "code": "VN",
+    "dialCode": "+84",
+    "name_en": "Vietnam",
+    "name_ar": "فيتنام"
+  },
+  {
+    "code": "WF",
+    "dialCode": "+681",
+    "name_en": "Wallis and Futuna",
+    "name_ar": "واليس وفوتونا"
+  },
+  {
+    "code": "EH",
+    "dialCode": "+2125288",
+    "name_en": "Western Sahara",
+    "name_ar": "الصحراء الغربية"
+  },
+  {
+    "code": "EH",
+    "dialCode": "+2125289",
+    "name_en": "Western Sahara",
+    "name_ar": "الصحراء الغربية"
+  },
+  {
+    "code": "YE",
+    "dialCode": "+967",
+    "name_en": "Yemen",
+    "name_ar": "اليمن"
+  },
+  {
+    "code": "ZM",
+    "dialCode": "+260",
+    "name_en": "Zambia",
+    "name_ar": "زامبيا"
+  },
+  {
+    "code": "ZW",
+    "dialCode": "+263",
+    "name_en": "Zimbabwe",
+    "name_ar": "زيمبابوي"
+  }
+]
