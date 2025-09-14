@@ -2,6 +2,8 @@
 import Countdown from "../../components/Countdown";
 import EmailForm from "../../components/EmailForm";
 import { useParams } from "next/navigation";
+import Image from "next/image";
+import Link from "next/link";
 
 const t = {
   ar: {
@@ -43,7 +45,14 @@ export default function HomePage() {
   return (
     <main dir={isAR ? "rtl" : "ltr"}>
       <div className="hero">
-        <img src="/logo.svg" alt="LYTH Logo" className="logo" />
+        <Image
+          src="/logo.svg"
+          alt="LYTH Logo"
+          className="logo"
+          width={120}
+          height={120}
+          priority
+        />
         <h1>{tr.coming_soon}</h1>
         <p className="lead">{tr.value_prop}</p>
 
@@ -62,18 +71,20 @@ export default function HomePage() {
         />
 
         <div className="actions">
-          <a
+          <Link
             href={isAR ? "/en" : "/ar"}
             className="toggle"
-            aria-label={isAR ? "Switch to English" : "التبديل إلى العربية"}
+            aria-label={
+              isAR ? "Switch to English" : 'OU,O�O"O_USU, O�U,U% OU,O1O�O"USOc'
+            }
           >
             {tr.english}
-          </a>
+          </Link>
         </div>
 
         <div className="footer">
-          {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
-          <a href="/privacy">{tr.privacy}</a> • <a href="/terms">{tr.terms}</a>
+          <Link href={`/${locale}/privacy`}>{tr.privacy}</Link> •{" "}
+          <Link href={`/${locale}/terms`}>{tr.terms}</Link>
         </div>
       </div>
       <style jsx>{`
