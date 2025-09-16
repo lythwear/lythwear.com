@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { subscribeToBrevo } from "../../../lib/brevo";
+import { subscribeToEmailOctopus } from "../../../lib/emailoctopus";
 import { logToLocal } from "../../../lib/logger";
 
 export const runtime = "nodejs";
@@ -49,16 +50,34 @@ export async function POST(req: Request) {
 
     const lang = (langBody === "en" ? "en" : "ar") as "ar" | "en";
 
-    await subscribeToBrevo(email, {
-      name: safeName,
-      phone: e164,
-      lang,
-      source: "homepage",
-    });
+    // Choose provider: explicit env SUBSCRIBE_PROVIDER wins.
+    // Otherwise, prefer EmailOctopus if EO env is present; fallback to Brevo.
+    const provider = (process.env.SUBSCRIBE_PROVIDER || "").toLowerCase();
+    const useEO =
+      provider === "emailoctopus" ||
+      (!provider && !!process.env.EO_API_KEY && !!process.env.EO_LIST_ID);
+
+    if (useEO) {
+      await subscribeToEmailOctopus(email, {
+        name: safeName,
+        lang,
+        source: "homepage",
+        phone: e164,
+        countryCode:
+          typeof cc === "string" ? cc.replace(/\D+/g, "") : undefined,
+      });
+    } else {
+      await subscribeToBrevo(email, {
+        name: safeName,
+        phone: e164,
+        lang,
+        source: "homepage",
+      });
+    }
     return NextResponse.json({ status: "subscribed" }, { status: 200 });
   } catch (err) {
     const msg = err instanceof Error ? err.message : String(err);
-    console.error("Brevo subscribe error:", msg);
+    console.error("Subscribe error:", msg);
     // Persist debug logs locally (ignored by Git)
     let body = "[unavailable]";
     try {
