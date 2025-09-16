@@ -17,13 +17,23 @@ function getDialMap() {
   try {
     const p = path.resolve(process.cwd(), "public", "country-codes.json");
     const raw = fs.readFileSync(p, "utf8");
-    const arr = JSON.parse(raw) as Array<CountryItem | any>;
+    const parsed: unknown = JSON.parse(raw);
+    const arr: unknown[] = Array.isArray(parsed) ? parsed : [];
+    const isCountryItem = (v: unknown): v is CountryItem => {
+      if (!v || typeof v !== "object") return false;
+      const o = v as Record<string, unknown>;
+      return (
+        typeof o.dialCode === "string" &&
+        typeof o.name_en === "string" &&
+        typeof o.name_ar === "string"
+      );
+    };
     const m = new Map<string, { name_en: string; name_ar: string }>();
     for (const it of arr) {
-      if (!it) continue;
+      if (!isCountryItem(it)) continue;
       const dial = String(it.dialCode || "").replace(/[^\d]/g, "");
-      const name_en = typeof it.name_en === "string" ? it.name_en : "";
-      const name_ar = typeof it.name_ar === "string" ? it.name_ar : "";
+      const name_en = it.name_en;
+      const name_ar = it.name_ar;
       if (dial) m.set(dial, { name_en, name_ar });
     }
     DIAL_MAP = m;
@@ -90,19 +100,26 @@ export async function subscribeToEmailOctopus(
   );
 
   const text = await res.text();
-  let data: any = undefined;
+  let data: unknown = undefined;
   try {
     data = text ? JSON.parse(text) : undefined;
   } catch {}
 
   if (res.ok) return; // created or updated
 
-  const code = data?.error?.code || data?.code;
+  type EOErrorShape = {
+    error?: { code?: string; message?: string };
+    code?: string;
+    message?: string;
+  };
+  const obj: EOErrorShape | undefined =
+    data && typeof data === "object" ? (data as EOErrorShape) : undefined;
+  const code = obj?.error?.code ?? obj?.code;
   if (code === "MEMBER_EXISTS_WITH_EMAIL_ADDRESS") return; // idempotent success
 
   const msg =
-    (typeof data?.error?.message === "string" && data.error.message) ||
-    (typeof data?.message === "string" && data.message) ||
+    (obj?.error?.message && String(obj.error.message)) ||
+    (obj?.message && String(obj.message)) ||
     text ||
     "EMAILOCTOPUS_ERROR";
   throw new Error(`[${res.status}] ${code || "EO_ERROR"} ${msg}`);
